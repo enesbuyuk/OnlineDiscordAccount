@@ -24,9 +24,7 @@ function kgiris(token) {
             //type: "PLAYING"
           //}
       });
-    }
   });
-  client.login(token);
 }
 
 kgiris("UserAccountToken-1"); //token of account-1
