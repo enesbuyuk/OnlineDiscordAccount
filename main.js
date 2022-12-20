@@ -19,10 +19,10 @@ function kgiris(token) {
     console.log(`${client.user.tag} olarak giriş yapıldı!`);
     client.user.setPresence({
           status: 'dnd',
-       //   activity: {
-             // name: ".help",
-            // type: "PLAYING"
-         //}
+          //activity: {
+             //name: ".help",
+            //type: "PLAYING"
+          //}
       });
     }
   });
